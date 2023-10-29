@@ -10,7 +10,7 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^3.1.4"
+    "astro": "^3.4.0"
   },
   "description": "The official Astro Cloud Sandbox Template by the CodeSandbox team"
 }
